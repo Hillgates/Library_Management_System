@@ -1,6 +1,8 @@
 # Library_Management_System
 
-This app is a Library Management App for University.
+This app is a Library Management App for a university.
+Description yet to be updated...
+<!--
 It has two types of users (Administrator and the Student).
 
 Administrators can register Students at the library, update their info, and also de-register them at any time.
@@ -52,7 +54,7 @@ These are the features to be included in the project.
 # What the users can do(brief):
 ---------------------------------------
 ## Admin (main)
-<!--------------------------------------->
+<!---------------------------------------s>
   - Configure system settings
 		- Database connections
 		- Application preferences (but this anyone can change for now)
@@ -62,7 +64,7 @@ These are the features to be included in the project.
 		- Delete student/admin account
 
 ## Admin (standard):
-<!--------------------------------------->
+<!---------------------------------------s>
   - Configure system settings
 		- Database connections
 		- Application preferences (but this anyone can change for now)
@@ -72,9 +74,10 @@ These are the features to be included in the project.
 		- Delete student account
 
 ## Student:
-<!--------------------------------------->
+<!---------------------------------------s>
   - Search Book
   - Borrow Book
   - Return Book
   - Renew Book
   - Pay fine amount
+-->
